@@ -1,3 +1,3 @@
 # maven-project
-Source code for Harun's DevOps course.
+Source code for Moataz's DevOps course.
 
